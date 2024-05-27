@@ -3,11 +3,11 @@ this project aims to help farmer maintain their plants or crops by utilizing IOT
 
 
 
-![image](https://github.com/RaphaelNazareth/Smart-Farm-with-blynk-/assets/86475236/8613e6f2-3984-4083-af19-1405053ee66d)
+![3](https://github.com/RaphaelNazareth/Smart-Farm-with-blynk-/assets/86475236/8613e6f2-3984-4083-af19-1405053ee66d)
 *Image: plant pot Hardware configuration*
-![image](https://github.com/RaphaelNazareth/Smart-Farm-with-blynk-/assets/86475236/b97a5215-9f85-4c32-b5f7-08e2fcd58231)
+![2](https://github.com/RaphaelNazareth/Smart-Farm-with-blynk-/assets/86475236/b97a5215-9f85-4c32-b5f7-08e2fcd58231)
 *Image: Smartphone Displaying Integrated Data from Hardware via Blynk Application*
-![Screenshot 2024-05-26 123703](https://github.com/RaphaelNazareth/Smart-Farm-with-blynk-/assets/86475236/0c75bca6-e952-4cd7-af93-9430844b383c)
+![1](https://github.com/RaphaelNazareth/Smart-Farm-with-blynk-/assets/86475236/0c75bca6-e952-4cd7-af93-9430844b383c)
 *Image: Blynk Application Displayed on a Website*
 
 
